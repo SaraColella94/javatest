@@ -1,6 +1,7 @@
 package it.generationitaly.app.controller;
 
 public class App {
+	//ciao!
 	  public static void main(String[] args) {
 		System.out.println("Hello World");
 		metodo1();
